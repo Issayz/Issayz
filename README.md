@@ -1,5 +1,4 @@
 ## Oiie! joinha?😸👍
-![snake gif](https://github.com/Issayz/Issayz/blob/output/github-contribution-grid-snake.gif)
 
 - 📚 Estudando Java e Python
 
