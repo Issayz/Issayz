@@ -4,7 +4,7 @@ on:
   # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *" 
-
+  
   # allows to manually run the job at any time
   workflow_dispatch:
   
@@ -42,4 +42,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
