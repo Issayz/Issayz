@@ -2,15 +2,18 @@
 ## Oiie! joinha? 😸👍
 
 ### 👩‍💻 Sobre Mim
-- 📚 Estudante de Analise e Desenvolvimento de Sistema
+- 📚 Estudante de Análise e Desenvolvimento de Sistema
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
     <h3>🛠️ Minhas Top Linguagens:</h3>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Issayz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issayz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Linguagens Issayz" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatyanepgoncalves&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Linguagens tatyanepgoncalves" />
   </div>
   <div style="flex: 1; text-align: center;">
+    <img src="https://miro.medium.com/max/1400/1*Rk7C1xAAmEl9z5GgFZp-vg.gif" alt="Programação" style="border-radius: 10px; width: 100%; max-width: 300px;" />
+  </div>
 </div>
 
 ---
@@ -29,3 +32,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Issayz/Issayz/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Issayz/Issayz/output/github-contribution-grid-snake.svg">
 </picture>
+
+
