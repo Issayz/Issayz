@@ -11,8 +11,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issayz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Linguagens" />
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="https://miro.medium.com/max/1400/1*Rk7C1xAAmEl9z5GgFZp-vg.gif" alt="Programação" style="border-radius: 10px; width: 100%; max-width: 300px;" />
-  </div>
 </div>
 
 ---
