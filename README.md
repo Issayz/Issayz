@@ -1,7 +1,7 @@
 ## Oiie! joinha? 😸👍
 
 ### 👩‍💻 Sobre Mim
-- 📚 Estudante de Análise e Desenvolvimento de Sistema
+- 📚 Estudante de Analise e Desenvolvimento de Sistema
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
@@ -12,12 +12,6 @@
   <div style="flex: 1; text-align: center;">
     <img src="https://miro.medium.com/max/1400/1*Rk7C1xAAmEl9z5GgFZp-vg.gif" alt="Programação" style="border-radius: 10px; width: 100%; max-width: 300px;" />
   </div>
-</div>
-
----
-
-<div>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Issayz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ---
