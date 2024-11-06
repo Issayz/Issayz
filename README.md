@@ -8,7 +8,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
     <h3>🛠️ Minhas Top Linguagens:</h3>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tatyanepgoncalves&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Issayz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   </div>
   <div style="flex: 1; text-align: center;">
 </div>
