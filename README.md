@@ -2,8 +2,7 @@
 ## Oiie! joinha? 😸👍
 
 ### 👩‍💻 Sobre Mim
-- 📚 Estudante de Análise e Desenvolvimento de Sistema
----
+- 📚 Tenho 17 anos, sou estudante de Análise e Desenvolvimento de Sistemas e estou no início da minha jornada na área de desenvolvimento, buscando aprender cada vez mais e me desafiar com novos projetos. Atualmente meus estudos estão focados em JavaScript, Python, HTML, CSS, e SQL
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
