@@ -34,6 +34,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Issayz/Issayz/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Issayz.Issayz&left_color=darkviolet&right_color=darkorchid&left_text=Visualiza%C3%A7%C3%B5es%20no%20perfil:" width="300" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A917E1&height=120&section=footer"/>
