@@ -3,7 +3,7 @@
 
  **`Estudante de Análise e Desenvolvimento de Sistemas • Iniciante em programação`**
 ### 👩‍💻 Sobre Mim
-> - 📚 Tenho 17 anos, sou estudante de Análise e Desenvolvimento de Sistemas e estou no início da minha jornada na área de desenvolvimento, buscando aprender cada vez mais. Atualmente meus estudos estão focados em JavaScript, Python, HTML, CSS, e SQL
+> - 📚 Tenho 17 anos, sou estudante de Análise e Desenvolvimento de Sistemas e estou no início da minha jornada na área de desenvolvimento, buscando aprender cada vez mais. Atualmente meus estudos estão focados em JavaScript, Python, HTML, CSS e SQL
 
 --- 
 <div style="display: flex; align-items: center; justify-content: space-between;">
