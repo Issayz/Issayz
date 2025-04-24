@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A917E1&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+<p align="center"><strong>Systems Analysis and Development Student • Beginner in programming</strong></p>
 
-**`Systems Analysis and Development Student • Beginner in programming`**
 ### 👩‍💻 About Me
 > - 📚 I'm 17 years old, I'm a Systems Analysis and Development student and I'm at the beginning of my journey in the development area, seeking to learn more and more. Currently my studies are focused on JavaScript, Python, HTML, CSS and SQL
 
