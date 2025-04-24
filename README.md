@@ -11,7 +11,7 @@
 --- 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
-    <h3>🛠️ Minhas Top Linguagens:</h3>
+    <h3>🛠️ My Top Languages:</h3>
     <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Issayz&show_icons=true&count_private=true&hide_border=true&title_color=A917E1&icon_color=A917E1&text_color=A917E1&bg_color=151415" alt="Raissa Caetano github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issayz&layout=compact&hide_border=true&title_color=A917E1&text_color=A917E1&bg_color=151415" />
