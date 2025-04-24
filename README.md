@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A917E1&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<p align="center"><strong>Systems Analysis and Development Student • Beginner in programming</strong></p>
+<p align="center"><strong><code>Systems Analysis and Development Student • Beginner in programming</code></strong></p>
 
 ### 👩‍💻 About Me
 > - 📚 I'm 17 years old, I'm a Systems Analysis and Development student and I'm at the beginning of my journey in the development area, seeking to learn more and more. Currently my studies are focused on JavaScript, Python, HTML, CSS and SQL
@@ -11,7 +11,7 @@
 --- 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
-    <h3>🛠️ My Top Languages:</h3>
+   <h3 align="center">🛠️ My Top Languages:</h3>
     <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Issayz&show_icons=true&count_private=true&hide_border=true&title_color=A917E1&icon_color=A917E1&text_color=A917E1&bg_color=151415" alt="Raissa Caetano github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issayz&layout=compact&hide_border=true&title_color=A917E1&text_color=A917E1&bg_color=151415" />
