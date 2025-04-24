@@ -1,10 +1,9 @@
 
 ## Oiie! joinha? 😸👍
 
- **`Estudante de Análise e Desenvolvimento de Sistemas • Iniciante em programação`**
-### 👩‍💻 Sobre Mim
-> - 📚 Tenho 17 anos, sou estudante de Análise e Desenvolvimento de Sistemas e estou no início da minha jornada na área de desenvolvimento, buscando aprender cada vez mais. Atualmente meus estudos estão focados em JavaScript, Python, HTML, CSS e SQL
-
+**`Systems Analysis and Development Student • Beginner in programming`**
+### 👩‍💻 About Me
+> - 📚 I'm 17 years old, I'm a Systems Analysis and Development student and I'm at the beginning of my journey in the development area, seeking to learn more and more. Currently my studies are focused on JavaScript, Python, HTML, CSS and SQL
 --- 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
