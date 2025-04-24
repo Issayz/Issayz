@@ -4,7 +4,7 @@
 
 <p align="center"><strong><code>Systems Analysis and Development Student • Beginner in programming</code></strong></p>
 
-### 👩‍💻 About Me
+### <h3 align="center">👩‍💻 About Me </h3>
 > - 📚 I'm 17 years old, I'm a Systems Analysis and Development student and I'm at the beginning of my journey in the development area, seeking to learn more and more. Currently my studies are focused on JavaScript, Python, HTML, CSS and SQL
 
 
@@ -19,15 +19,15 @@
 
 ---
 
-### 🌟 Connect With Me
-<div> 
-  <a href="https://instagram.com/rai._.934" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/issayz_50734" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
-</div>
+### <h3 align="center">🌟 Connect With Me </h3>
+<p align="center">
+  <a href="https://instagram.com/rai._.934" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.gg/issayz_50734" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
 
 ---
 
-### 🐍 Contributions on GitHub
+### <h3 align="center">🐍 Contributions on GitHub </h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Issayz/Issayz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Issayz/Issayz/output/github-contribution-grid-snake.svg">
