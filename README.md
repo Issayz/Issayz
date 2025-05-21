@@ -23,6 +23,7 @@
 <p align="center">
   <a href="https://instagram.com/rai._.934" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://discord.gg/issayz_50734" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="[https://open.spotify.com/playlist/0S99tF0OGjgXP2DxSvs5g2](https://open.spotify.com/user/31fsusbvqgouwxa3nhxussasybxa?si=a62186716744412a)" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </p>
 
 ---
