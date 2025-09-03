@@ -21,7 +21,8 @@
 
 ### <h3 align="center">🌟 Connect With Me </h3>
 <p align="center">
-  <a href="https://instagram.com/rai._.934" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/issayzly07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="[https://www.linkedin.com/in/matheuswenes/](https://www.linkedin.com/in/raissa-caetano-649100370)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/issayz_50734" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31fsusbvqgouwxa3nhxussasybxa?si=a62186716744412a" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
