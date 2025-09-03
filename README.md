@@ -21,13 +21,25 @@
 
 ### <h3 align="center">🌟 Connect With Me </h3>
 <p align="center">
-  <a href="https://instagram.com/issayzly07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="[https://www.linkedin.com/in/matheuswenes/](https://www.linkedin.com/in/raissa-caetano-649100370)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/issayz_50734" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://instagram.com/issayzly07" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <a href="https://www.linkedin.com/in/raissa-caetano-649100370" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Raissa Caetano">
+  </a> 
+
+  <a href="https://discord.gg/issayz_50734" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+
   <a href="https://open.spotify.com/user/31fsusbvqgouwxa3nhxussasybxa?si=a62186716744412a" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-  <a href="https://pin.it/3e057QaHV" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"  target="_blank"></a>
-</a>
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+
+  <a href="https://pin.it/3e057QaHV" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest">
+  </a>
 </p>
 
 ---
