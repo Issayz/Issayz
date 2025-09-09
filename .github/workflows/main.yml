@@ -1,35 +1,31 @@
 name: generate animation
 
 on:
-  # roda automaticamente todo dia
   schedule:
-    - cron: "0 */24 * * *" 
-  # permite rodar manualmente
+    - cron: "0 */24 * * *"
   workflow_dispatch:
-  # roda a cada push na branch master
   push:
     branches:
       - master
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
-      # gera o SVG do snake de contribuições do GitHub
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # versão light e dark com cobrinha branca e fundo preto
-            dist/github-contribution-grid-snake.svg?palette=stroke=ffffff,fill=000000
-            dist/github-contribution-grid-snake-dark.svg?palette=stroke=ffffff,fill=000000
-          
-      # envia os arquivos gerados para a branch 'output'
+            # versão com cobra escura em fundo preto
+            dist/github-contribution-grid-snake.svg?palette=stroke=222222,fill=000000
+            # versão com cobra preta em fundo preto (bem dark mesmo)
+            dist/github-contribution-grid-snake-dark.svg?palette=stroke=000000,fill=000000
+
       - name: Push github-contribution-grid-snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
