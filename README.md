@@ -9,13 +9,7 @@
 
 
 --- 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 20px;">
-   <h3 align="center"> My Top Languages:</h3>    
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-3xpfcarl5-issayzs-projects.vercel.app/api?username=Issayz&show_icons=true&count_private=true&hide_border=true&title_color=%23a917e1&icon_color=%23a917e1&text_color=%23a917e1&bg_color=%23151415" alt="Raissa Caetano github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-3xpfcarl5-issayzs-projects.vercel.app/api/top-langs/?username=Issayz&layout=compact&hide_border=true&title_color=%23a917e1&text_color=%23a917e1&bg_color=%23151415" />
-</div>
+
     
 ### <h3 align="center">Connect With Me</h3>
 <p align="center">
