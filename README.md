@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A917E1&size=35&center=true&vCenter=true&width=1000&lines=Hello!;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<p align="center"><strong><code>Systems Analysis and Development Student • Beginner in programming</code></strong></p>
+<p align="center"><strong><code>Student - Software Engineering || Technician - Systems Development</code></strong></p>
 
 ### <h3 align="center"> About Me ☺ </h3>
-> - 🖳 I'm 17 years old, I'm a Systems Analysis and Development student and I'm at the beginning of my journey in the development area, seeking to learn more and more. Currently my studies are focused on JavaScript, Python, HTML, CSS and SQL
+> - 🖳 I am 18 years old, a Software Engineering student, and I have already completed a specialization in Systems Development and Administration. I am on a journey in the development field, always seeking to learn more. Currently, my studies are focused on C, Python, HTML, CSS, and SQL.
 
 
 --- 
